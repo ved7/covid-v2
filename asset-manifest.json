@@ -3,15 +3,15 @@
     "static/js/0.d3f4e06b.chunk.js": "/covid-v2/static/js/0.d3f4e06b.chunk.js",
     "static/js/0.d3f4e06b.chunk.js.map": "/covid-v2/static/js/0.d3f4e06b.chunk.js.map",
     "main.css": "/covid-v2/static/css/main.58ee636d.chunk.css",
-    "main.js": "/covid-v2/static/js/main.8bebadc1.chunk.js",
-    "main.js.map": "/covid-v2/static/js/main.8bebadc1.chunk.js.map",
+    "main.js": "/covid-v2/static/js/main.501d9a0f.chunk.js",
+    "main.js.map": "/covid-v2/static/js/main.501d9a0f.chunk.js.map",
     "polyfills-dom.js": "/covid-v2/static/js/polyfills-dom.eb4c6530.chunk.js",
     "polyfills-dom.js.map": "/covid-v2/static/js/polyfills-dom.eb4c6530.chunk.js.map",
     "runtime-main.js": "/covid-v2/static/js/runtime-main.675df842.js",
     "runtime-main.js.map": "/covid-v2/static/js/runtime-main.675df842.js.map",
     "static/css/4.5c58278c.chunk.css": "/covid-v2/static/css/4.5c58278c.chunk.css",
-    "static/js/4.2433d445.chunk.js": "/covid-v2/static/js/4.2433d445.chunk.js",
-    "static/js/4.2433d445.chunk.js.map": "/covid-v2/static/js/4.2433d445.chunk.js.map",
+    "static/js/4.ef190e1a.chunk.js": "/covid-v2/static/js/4.ef190e1a.chunk.js",
+    "static/js/4.ef190e1a.chunk.js.map": "/covid-v2/static/js/4.ef190e1a.chunk.js.map",
     "static/js/5.c5fbaf54.chunk.js": "/covid-v2/static/js/5.c5fbaf54.chunk.js",
     "static/js/5.c5fbaf54.chunk.js.map": "/covid-v2/static/js/5.c5fbaf54.chunk.js.map",
     "static/js/6.a3d04a12.chunk.js": "/covid-v2/static/js/6.a3d04a12.chunk.js",
@@ -121,15 +121,15 @@
     "index.html": "/covid-v2/index.html",
     "static/css/4.5c58278c.chunk.css.map": "/covid-v2/static/css/4.5c58278c.chunk.css.map",
     "static/css/main.58ee636d.chunk.css.map": "/covid-v2/static/css/main.58ee636d.chunk.css.map",
-    "static/js/4.2433d445.chunk.js.LICENSE.txt": "/covid-v2/static/js/4.2433d445.chunk.js.LICENSE.txt",
+    "static/js/4.ef190e1a.chunk.js.LICENSE.txt": "/covid-v2/static/js/4.ef190e1a.chunk.js.LICENSE.txt",
     "static/js/52.7f2c02be.chunk.js.LICENSE.txt": "/covid-v2/static/js/52.7f2c02be.chunk.js.LICENSE.txt",
     "static/js/polyfills-dom.eb4c6530.chunk.js.LICENSE.txt": "/covid-v2/static/js/polyfills-dom.eb4c6530.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.675df842.js",
     "static/css/4.5c58278c.chunk.css",
-    "static/js/4.2433d445.chunk.js",
+    "static/js/4.ef190e1a.chunk.js",
     "static/css/main.58ee636d.chunk.css",
-    "static/js/main.8bebadc1.chunk.js"
+    "static/js/main.501d9a0f.chunk.js"
   ]
 }
